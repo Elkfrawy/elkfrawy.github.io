@@ -6,7 +6,7 @@
     "email": "elkfrawy@gmail.com",
     "phone": "510-590-2282",
     "website": "https://elkfrawy.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I'm a Software Engineer passionate about technology and software development. I like hacking my way through electronics as it is with software development with a passion seeing both working together. I'm interested also in Machine Learning and Artificial Intelligence where most of computer magic goes",
     "location": {
       "address": "721 40th Street",
       "postalCode": "94609",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
         "association rules",
         "recommendation systems",
