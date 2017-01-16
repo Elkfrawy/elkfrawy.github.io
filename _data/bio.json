@@ -1,58 +1,74 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "name": "Ayman Elkfrawy",
+    "label": "Software Engineer",
+    "picture": "https://elkfrawy.github.io/images/molly.png",
+    "email": "elkfrawy@gmail.com",
+    "phone": "510-590-2282",
+    "website": "https://elkfrawy.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "721 40th Street",
+      "postalCode": "94609",
+      "city": "Oakland",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "CA"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Elkfrawy",
+        "url": "https://github.com/Elkfrawy"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "elkfrawy",
+        "url": "http://linkedin.com/in/elkfrawy"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Java back-end",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Java SE",
+        "Java EE"
       ]
     },
     {
       "name": "data mining",
       "keywords": [
+        "association rules",
+        "recommendation systems",
+        "Neural Networks",
+        "SVN"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Full-Stack",
       "keywords": [
+        "Spring framework",
+        "Vaadin",
+        "webservices",
+        "microservices",
+        "javascript",
+        "html",
+        "css",
+        "REST API"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": [
+        "ARM",
+        "Raspberry Pi",
+        "IoT"
+      ]
+    },
+    {
+      "name": "Mobile Applications",
+      "keywords": [
+        "Android"
       ]
     }
   ],
@@ -61,103 +77,99 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
+        "Python",
+        "PHP",
+        "C",
+        "C++",
+        "C#",
         "Assembly",
-        "Common Lisp"
+        "Matlab",
+        "Spring",
+        "Vaadin",
+        "Android SDK"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Intellij",
+        "Eclipse",
+        "Netbeans"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Al-Azhar University, Cairo",
+      "area": "Computer Systems Engineer",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2006-09-01",
+      "endDate": "2011-07-01",
+      "gpa": "3.5",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Aurea",
+      "position": "Java Software Engineer",
+      "website": "http://www.aurea.com/",
+      "startDate": "2016-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain a web-based application that manages business processes for insurance companies by fixing customer bugs and implementing new features",
+        "Fix Sonar issues and applying best practices on various Company Java based products to increase performance, reduce bugs and improve readability",
+        "Worked on 5 different company products and about 20 different open source projects"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Al-Azhar University",
+      "position": "Teaching Assistance",
+      "website": "",
+      "startDate": "2013-08-01",
+      "endDate": "2016-08-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Teach undergraduate sections and labs, and grading exams",
+        "Help students with their graduation projects. Helping with project design to achieve its goals, the problems they might face and how to fix them and project documentations",
+        "Coducting a research about Recommendation Systems for social networks",
+        "Courses I taught: Embedded Systems, Introduction to Artificial Intelligent, Introduction to Compilers, Numerical Analysis, Communication Systems, FPGA."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Al-Azhar University",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Instructor",
+      "startDate": "2010-8-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Instructed Java and C# courses at Summer School 2010",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Won two prizes in the IEEE Computer Society International Student Competition 2010",
+      "date": "2010",
+      "awarder": "IEEE Computer Society",
+      "summary": "Lead a team of 5 members to win two prizes –with value of $5500- among 80 teams from universities all over the world."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First of class",
+      "date": "2013",
+      "awarder": "Al-Azhar University",
+      "summary": "Firt of my graduation class 2013 at Al-Azhar University"
     }
   ],
   "references": [
