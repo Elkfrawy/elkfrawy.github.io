@@ -143,6 +143,43 @@
         "Coducting a research about Recommendation Systems for social networks",
         "Courses I taught: Embedded Systems, Introduction to Artificial Intelligent, Introduction to Compilers, Numerical Analysis, Communication Systems, FPGA."
       ]
+    },
+    {
+      "company": "National Authority for Remote Sensing and Space Science (NARSS)",
+      "position": "Software Engineer",
+      "website": "http://www.narss.sci.eg/",
+      "startDate": "2013-12-01",
+      "endDate": "2016-05-01",
+      "summary": "",
+      "highlights": [
+        "Lead and taught the development team to use Vaadin framework to develop a web based satellite control subsystem which decreased the development time by 50%",
+        "Reverse-engineered DSP card software in C under QNX OS to implement new functionality"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Freelancer Software Developer",
+      "website": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-06-01",
+      "summary": "",
+      "highlights": [
+        "Co-Developed two Android applications with RESTful based web services",
+        "Developed pharmaschool website for college students using Joomla",
+        "Developed various software solutions using Java, C#, PHP and others"
+      ]
+    },
+    {
+      "company": "Horizons Software",
+      "position": "Internship",
+      "website": "http://www.horizonssoftware.com/",
+      "startDate": "2010-07-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": [
+        "Got training on Data Mining algorithms and SQL Server 2005",
+        "Build a proof of concept for TWIRL project (European Union Supervised) which uses information extraction and data mining with semantic web"
+      ]
     }
   ],
   "volunteer": [
